@@ -1,7 +1,7 @@
 ### Hi, I'm Irina (Reni) 👋
 Junior Manual QA Engineer | Web & API Testing
 
-> I'm attentive to details in life and in bug's. I'm able to find things that others don't notice.
+> I'm attentive to details in life and in bugs. I'm able to find things that others don't notice.
 
 🛠 Stack:
 `Jira` `TestRail` `Postman` `SQL` `DevTools` `GitHub`
